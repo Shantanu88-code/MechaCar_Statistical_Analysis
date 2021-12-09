@@ -12,13 +12,16 @@ MechaCar is suffering from production troubles that are blocking manufacturing t
 
 4) Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
+# Linear Regression to Predict MPG
+
+<img width="570" alt="linear_regress" src="https://user-images.githubusercontent.com/86980240/145335520-1f121e97-ee38-4fee-b44b-2491f223104d.png">
+
 # Summary Stats on Suspension Coils
 
 While the overall variance in the Total Summary data, is under 100 psi. But in the Lot Summary stats, the variance for Lot 3 is well over the threshold, that is 170.28.
 
 <img width="318" alt="total" src="https://user-images.githubusercontent.com/86980240/145335183-7e306a57-8e68-4c37-95ea-26aebacaa2a1.png">
 <img width="462" alt="individual" src="https://user-images.githubusercontent.com/86980240/145335203-25d8681a-b1a0-4bbd-90fb-252df14a0df7.png">
-
 
 # T-Test on Suspension Coils
 
@@ -37,7 +40,6 @@ T-test for suspension coils for LOT 2 shows they statistically different than po
 T-test for suspension coils for LOT 3 shows they are statistically different than population mean and p-value of 0.04168 is low enough to reject null hypotheses.
 
 <img width="546" alt="lot3" src="https://user-images.githubusercontent.com/86980240/145334546-b3edda1f-83b5-4bf8-bc0d-37dc58b480a3.png">
-
 
 # Study Design : MechaCar vs Competitors
 
