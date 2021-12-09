@@ -12,6 +12,14 @@ MechaCar is suffering from production troubles that are blocking manufacturing t
 
 4) Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
+# Summary Stats on Suspension Coils
+
+While the overall variance in the Total Summary data, is under 100 psi. But in the Lot Summary stats, the variance for Lot 3 is well over the threshold, that is 170.28.
+
+<img width="318" alt="total" src="https://user-images.githubusercontent.com/86980240/145335183-7e306a57-8e68-4c37-95ea-26aebacaa2a1.png">
+<img width="462" alt="individual" src="https://user-images.githubusercontent.com/86980240/145335203-25d8681a-b1a0-4bbd-90fb-252df14a0df7.png">
+
+
 # T-Test on Suspension Coils
 
 A review of cumulative t-test for suspension coils shows they are not statistically different than population mean and p-value is high enough to reject null hypotheses.
